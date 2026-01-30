@@ -24,3 +24,5 @@ Thumbs.db
 # Build cache
 .cache/
 build/
+
+lms/edu-manage/docs/
